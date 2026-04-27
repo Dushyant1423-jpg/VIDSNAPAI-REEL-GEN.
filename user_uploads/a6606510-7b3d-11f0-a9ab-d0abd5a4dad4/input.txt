@@ -1,0 +1,4 @@
+file 'srk-1.jpg'
+duration 1
+file 'gettyimages-2213056768.jpg'
+duration 1
